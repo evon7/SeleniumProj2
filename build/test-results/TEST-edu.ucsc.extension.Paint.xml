@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.ucsc.extension.Paint" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-12-20T21:14:55" hostname="Yvonne-PC" time="30.849">
+  <properties/>
+  <testcase name="testPaint" classname="edu.ucsc.extension.Paint" time="30.849"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

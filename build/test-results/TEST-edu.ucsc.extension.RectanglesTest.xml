@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.ucsc.extension.RectanglesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-12-20T21:15:26" hostname="Yvonne-PC" time="34.824">
+  <properties/>
+  <testcase name="testIntersection" classname="edu.ucsc.extension.RectanglesTest" time="34.824"/>
+  <system-out><![CDATA[X    Y              	X   	Y   	W   	H   	X+W   	Y+H
+0 (1000, 45)		1000	45	94	56	1094	101<=== CurRect
+Comparing the same rectangle. Skip to next
+1 (447, 80)	447	80	70	61	517	141
+2 (740, 325)	740	325	91	92	831	417
+3 (726, 477)	726	477	88	65	814	542
+4 (45, 131)	45	131	79	82	124	213
+5 (46, 540)	46	540	74	72	120	612
+6 (782, 523)	782	523	63	88	845	611
+7 (655, 98)	655	98	63	84	718	182
+8 (1187, 584)	1187	584	96	68	1283	652
+9 (1043, 218)	1043	218	98	53	1141	271
+10 (1191, 29)	1191	29	73	61	1264	90
+11 (515, 365)	515	365	90	73	605	438
+12 (204, 363)	204	363	76	99	280	462
+13 (1086, 441)	1086	441	65	68	1151	509
+------------------------------------------------
+X    Y              	X   	Y   	W   	H   	X+W   	Y+H
+1 (447, 80)		447	80	70	61	517	141<=== CurRect
+Comparision of Rect[1] and Rect[0] had been done before. Skip to next
+Comparing the same rectangle. Skip to next
+2 (740, 325)	740	325	91	92	831	417
+3 (726, 477)	726	477	88	65	814	542
+4 (45, 131)	45	131	79	82	124	213
+5 (46, 540)	46	540	74	72	120	612
+6 (782, 523)	782	523	63	88	845	611
+7 (655, 98)	655	98	63	84	718	182
+8 (1187, 584)	1187	584	96	68	1283	652
+9 (1043, 218)	1043	218	98	53	1141	271
+10 (1191, 29)	1191	29	73	61	1264	90
+11 (515, 365)	515	365	90	73	605	438
+12 (204, 363)	204	363	76	99	280	462
+13 (1086, 441)	1086	441	65	68	1151	509
+------------------------------------------------
+X    Y              	X   	Y   	W   	H   	X+W   	Y+H
+2 (740, 325)		740	325	91	92	831	417<=== CurRect
+Comparision of Rect[2] and Rect[0] had been done before. Skip to next
+Comparision of Rect[2] and Rect[1] had been done before. Skip to next
+Comparing the same rectangle. Skip to next
+3 (726, 477)	726	477	88	65	814	542
+4 (45, 131)	45	131	79	82	124	213
+5 (46, 540)	46	540	74	72	120	612
+6 (782, 523)	782	523	63	88	845	611
+7 (655, 98)	655	98	63	84	718	182
+8 (1187, 584)	1187	584	96	68	1283	652
+9 (1043, 218)	1043	218	98	53	1141	271
+10 (1191, 29)	1191	29	73	61	1264	90
+11 (515, 365)	515	365	90	73	605	438
+12 (204, 363)	204	363	76	99	280	462
+13 (1086, 441)	1086	441	65	68	1151	509
+------------------------------------------------
+X    Y              	X   	Y   	W   	H   	X+W   	Y+H
+3 (726, 477)		726	477	88	65	814	542<=== CurRect
+Comparision of Rect[3] and Rect[0] had been done before. Skip to next
+Comparision of Rect[3] and Rect[1] had been done before. Skip to next
+Comparision of Rect[3] and Rect[2] had been done before. Skip to next
+Comparing the same rectangle. Skip to next
+4 (45, 131)	45	131	79	82	124	213
+5 (46, 540)	46	540	74	72	120	612
+6 (782, 523)	782	523	63	88	845	611
+Rect[3] and Rect[6] Intersect
+7 (655, 98)	655	98	63	84	718	182
+8 (1187, 584)	1187	584	96	68	1283	652
+9 (1043, 218)	1043	218	98	53	1141	271
+10 (1191, 29)	1191	29	73	61	1264	90
+11 (515, 365)	515	365	90	73	605	438
+12 (204, 363)	204	363	76	99	280	462
+13 (1086, 441)	1086	441	65	68	1151	509
+------------------------------------------------
+X    Y              	X   	Y   	W   	H   	X+W   	Y+H
+4 (45, 131)		45	131	79	82	124	213<=== CurRect
+Comparision of Rect[4] and Rect[0] had been done before. Skip to next
+Comparision of Rect[4] and Rect[1] had been done before. Skip to next
+Comparision of Rect[4] and Rect[2] had been done before. Skip to next
+Comparision of Rect[4] and Rect[3] had been done before. Skip to next
+Comparing the same rectangle. Skip to next
+5 (46, 540)	46	540	74	72	120	612
+6 (782, 523)	782	523	63	88	845	611
+7 (655, 98)	655	98	63	84	718	182
+8 (1187, 584)	1187	584	96	68	1283	652
+9 (1043, 218)	1043	218	98	53	1141	271
+10 (1191, 29)	1191	29	73	61	1264	90
+11 (515, 365)	515	365	90	73	605	438
+12 (204, 363)	204	363	76	99	280	462
+13 (1086, 441)	1086	441	65	68	1151	509
+------------------------------------------------
+X    Y              	X   	Y   	W   	H   	X+W   	Y+H
+5 (46, 540)		46	540	74	72	120	612<=== CurRect
+Comparision of Rect[5] and Rect[0] had been done before. Skip to next
+Comparision of Rect[5] and Rect[1] had been done before. Skip to next
+Comparision of Rect[5] and Rect[2] had been done before. Skip to next
+Comparision of Rect[5] and Rect[3] had been done before. Skip to next
+Comparision of Rect[5] and Rect[4] had been done before. Skip to next
+Comparing the same rectangle. Skip to next
+6 (782, 523)	782	523	63	88	845	611
+7 (655, 98)	655	98	63	84	718	182
+8 (1187, 584)	1187	584	96	68	1283	652
+9 (1043, 218)	1043	218	98	53	1141	271
+10 (1191, 29)	1191	29	73	61	1264	90
+11 (515, 365)	515	365	90	73	605	438
+12 (204, 363)	204	363	76	99	280	462
+13 (1086, 441)	1086	441	65	68	1151	509
+------------------------------------------------
+X    Y              	X   	Y   	W   	H   	X+W   	Y+H
+6 (782, 523)		782	523	63	88	845	611<=== CurRect
+Comparision of Rect[6] and Rect[0] had been done before. Skip to next
+Comparision of Rect[6] and Rect[1] had been done before. Skip to next
+Comparision of Rect[6] and Rect[2] had been done before. Skip to next
+Comparision of Rect[6] and Rect[3] had been done before. Skip to next
+Comparision of Rect[6] and Rect[4] had been done before. Skip to next
+Comparision of Rect[6] and Rect[5] had been done before. Skip to next
+Comparing the same rectangle. Skip to next
+7 (655, 98)	655	98	63	84	718	182
+8 (1187, 584)	1187	584	96	68	1283	652
+9 (1043, 218)	1043	218	98	53	1141	271
+10 (1191, 29)	1191	29	73	61	1264	90
+11 (515, 365)	515	365	90	73	605	438
+12 (204, 363)	204	363	76	99	280	462
+13 (1086, 441)	1086	441	65	68	1151	509
+------------------------------------------------
+X    Y              	X   	Y   	W   	H   	X+W   	Y+H
+7 (655, 98)		655	98	63	84	718	182<=== CurRect
+Comparision of Rect[7] and Rect[0] had been done before. Skip to next
+Comparision of Rect[7] and Rect[1] had been done before. Skip to next
+Comparision of Rect[7] and Rect[2] had been done before. Skip to next
+Comparision of Rect[7] and Rect[3] had been done before. Skip to next
+Comparision of Rect[7] and Rect[4] had been done before. Skip to next
+Comparision of Rect[7] and Rect[5] had been done before. Skip to next
+Comparision of Rect[7] and Rect[6] had been done before. Skip to next
+Comparing the same rectangle. Skip to next
+8 (1187, 584)	1187	584	96	68	1283	652
+9 (1043, 218)	1043	218	98	53	1141	271
+10 (1191, 29)	1191	29	73	61	1264	90
+11 (515, 365)	515	365	90	73	605	438
+12 (204, 363)	204	363	76	99	280	462
+13 (1086, 441)	1086	441	65	68	1151	509
+------------------------------------------------
+X    Y              	X   	Y   	W   	H   	X+W   	Y+H
+8 (1187, 584)		1187	584	96	68	1283	652<=== CurRect
+Comparision of Rect[8] and Rect[0] had been done before. Skip to next
+Comparision of Rect[8] and Rect[1] had been done before. Skip to next
+Comparision of Rect[8] and Rect[2] had been done before. Skip to next
+Comparision of Rect[8] and Rect[3] had been done before. Skip to next
+Comparision of Rect[8] and Rect[4] had been done before. Skip to next
+Comparision of Rect[8] and Rect[5] had been done before. Skip to next
+Comparision of Rect[8] and Rect[6] had been done before. Skip to next
+Comparision of Rect[8] and Rect[7] had been done before. Skip to next
+Comparing the same rectangle. Skip to next
+9 (1043, 218)	1043	218	98	53	1141	271
+10 (1191, 29)	1191	29	73	61	1264	90
+11 (515, 365)	515	365	90	73	605	438
+12 (204, 363)	204	363	76	99	280	462
+13 (1086, 441)	1086	441	65	68	1151	509
+------------------------------------------------
+X    Y              	X   	Y   	W   	H   	X+W   	Y+H
+9 (1043, 218)		1043	218	98	53	1141	271<=== CurRect
+Comparision of Rect[9] and Rect[0] had been done before. Skip to next
+Comparision of Rect[9] and Rect[1] had been done before. Skip to next
+Comparision of Rect[9] and Rect[2] had been done before. Skip to next
+Comparision of Rect[9] and Rect[3] had been done before. Skip to next
+Comparision of Rect[9] and Rect[4] had been done before. Skip to next
+Comparision of Rect[9] and Rect[5] had been done before. Skip to next
+Comparision of Rect[9] and Rect[6] had been done before. Skip to next
+Comparision of Rect[9] and Rect[7] had been done before. Skip to next
+Comparision of Rect[9] and Rect[8] had been done before. Skip to next
+Comparing the same rectangle. Skip to next
+10 (1191, 29)	1191	29	73	61	1264	90
+11 (515, 365)	515	365	90	73	605	438
+12 (204, 363)	204	363	76	99	280	462
+13 (1086, 441)	1086	441	65	68	1151	509
+------------------------------------------------
+X    Y              	X   	Y   	W   	H   	X+W   	Y+H
+10 (1191, 29)		1191	29	73	61	1264	90<=== CurRect
+Comparision of Rect[10] and Rect[0] had been done before. Skip to next
+Comparision of Rect[10] and Rect[1] had been done before. Skip to next
+Comparision of Rect[10] and Rect[2] had been done before. Skip to next
+Comparision of Rect[10] and Rect[3] had been done before. Skip to next
+Comparision of Rect[10] and Rect[4] had been done before. Skip to next
+Comparision of Rect[10] and Rect[5] had been done before. Skip to next
+Comparision of Rect[10] and Rect[6] had been done before. Skip to next
+Comparision of Rect[10] and Rect[7] had been done before. Skip to next
+Comparision of Rect[10] and Rect[8] had been done before. Skip to next
+Comparision of Rect[10] and Rect[9] had been done before. Skip to next
+Comparing the same rectangle. Skip to next
+11 (515, 365)	515	365	90	73	605	438
+12 (204, 363)	204	363	76	99	280	462
+13 (1086, 441)	1086	441	65	68	1151	509
+------------------------------------------------
+X    Y              	X   	Y   	W   	H   	X+W   	Y+H
+11 (515, 365)		515	365	90	73	605	438<=== CurRect
+Comparision of Rect[11] and Rect[0] had been done before. Skip to next
+Comparision of Rect[11] and Rect[1] had been done before. Skip to next
+Comparision of Rect[11] and Rect[2] had been done before. Skip to next
+Comparision of Rect[11] and Rect[3] had been done before. Skip to next
+Comparision of Rect[11] and Rect[4] had been done before. Skip to next
+Comparision of Rect[11] and Rect[5] had been done before. Skip to next
+Comparision of Rect[11] and Rect[6] had been done before. Skip to next
+Comparision of Rect[11] and Rect[7] had been done before. Skip to next
+Comparision of Rect[11] and Rect[8] had been done before. Skip to next
+Comparision of Rect[11] and Rect[9] had been done before. Skip to next
+Comparision of Rect[11] and Rect[10] had been done before. Skip to next
+Comparing the same rectangle. Skip to next
+12 (204, 363)	204	363	76	99	280	462
+13 (1086, 441)	1086	441	65	68	1151	509
+------------------------------------------------
+X    Y              	X   	Y   	W   	H   	X+W   	Y+H
+12 (204, 363)		204	363	76	99	280	462<=== CurRect
+Comparision of Rect[12] and Rect[0] had been done before. Skip to next
+Comparision of Rect[12] and Rect[1] had been done before. Skip to next
+Comparision of Rect[12] and Rect[2] had been done before. Skip to next
+Comparision of Rect[12] and Rect[3] had been done before. Skip to next
+Comparision of Rect[12] and Rect[4] had been done before. Skip to next
+Comparision of Rect[12] and Rect[5] had been done before. Skip to next
+Comparision of Rect[12] and Rect[6] had been done before. Skip to next
+Comparision of Rect[12] and Rect[7] had been done before. Skip to next
+Comparision of Rect[12] and Rect[8] had been done before. Skip to next
+Comparision of Rect[12] and Rect[9] had been done before. Skip to next
+Comparision of Rect[12] and Rect[10] had been done before. Skip to next
+Comparision of Rect[12] and Rect[11] had been done before. Skip to next
+Comparing the same rectangle. Skip to next
+13 (1086, 441)	1086	441	65	68	1151	509
+------------------------------------------------
+X    Y              	X   	Y   	W   	H   	X+W   	Y+H
+13 (1086, 441)		1086	441	65	68	1151	509<=== CurRect
+Comparision of Rect[13] and Rect[0] had been done before. Skip to next
+Comparision of Rect[13] and Rect[1] had been done before. Skip to next
+Comparision of Rect[13] and Rect[2] had been done before. Skip to next
+Comparision of Rect[13] and Rect[3] had been done before. Skip to next
+Comparision of Rect[13] and Rect[4] had been done before. Skip to next
+Comparision of Rect[13] and Rect[5] had been done before. Skip to next
+Comparision of Rect[13] and Rect[6] had been done before. Skip to next
+Comparision of Rect[13] and Rect[7] had been done before. Skip to next
+Comparision of Rect[13] and Rect[8] had been done before. Skip to next
+Comparision of Rect[13] and Rect[9] had been done before. Skip to next
+Comparision of Rect[13] and Rect[10] had been done before. Skip to next
+Comparision of Rect[13] and Rect[11] had been done before. Skip to next
+Comparision of Rect[13] and Rect[12] had been done before. Skip to next
+Comparing the same rectangle. Skip to next
+------------------------------------------------
+*** 1 Intercept Found *** 
+Rect[3] and Rect[6] Intersect
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.ucsc.extension.Demo" tests="2" skipped="1" failures="0" errors="0" timestamp="2015-12-20T21:14:55" hostname="Yvonne-PC" time="0.01">
+  <properties/>
+  <testcase name="demo" classname="edu.ucsc.extension.Demo" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSomething" classname="edu.ucsc.extension.Demo" time="0.008"/>
+  <system-out><![CDATA[C:\Users\Yvonne\Desktop\WebTesting\prog\assignment4_done\assignment4_done
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
